@@ -20,7 +20,7 @@ Written by: Sean M Hamlet
 https://github.com/seanmhamlet
 */
 
-var fs = require('fs')
+var fs = require('fs');
 var path = require('path');
 
 var directory = process.argv[2];
